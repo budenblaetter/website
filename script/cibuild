@@ -1,8 +1,8 @@
 hostname=$(head -n 1 credentials.txt)
-username $(head -n 2 credentials.txt | tail -1)
+username=$(head -n 2 credentials.txt | tail -1)
 wwwroot=$(head -n 3 credentials.txt | tail -1)
 
-jekyll build
+jekyll build ./_site
 
-scp -o "StrictHostKeyChecking no" -i deploy_key _site/index.html david@${hostname}:${wwwroot}/index.html
+scp -o "StrictHostKeyChecking no" -i deploy_key _site/index.html username@${hostname}:${wwwroot}/index.html
 
