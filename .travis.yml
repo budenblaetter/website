@@ -14,3 +14,4 @@ notifications:
 before_install:
 - openssl aes-256-cbc -K $encrypted_5922ef62bca0_key -iv $encrypted_5922ef62bca0_iv -in credentials.txt.enc -out credentials.txt -d
 - openssl aes-256-cbc -K $encrypted_189e52c2c347_key -iv $encrypted_189e52c2c347_iv -in deploy_key.enc -out deploy_key -d
+- chmod 600 deploy_key
