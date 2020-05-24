@@ -4,5 +4,5 @@ wwwroot=$(head -n 3 credentials.txt | tail -1)
 
 jekyll build
 
-scp -i deploy_key _site/index.html david@${hostname}:${wwwroot}/index.html
+scp -o "StrictHostKeyChecking no" -i deploy_key _site/index.html david@${hostname}:${wwwroot}/index.html
 
