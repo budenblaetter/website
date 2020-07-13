@@ -4,5 +4,6 @@
 
 layout: default
 title: Ankündigungen
+permalink: /announcements/
 ---
 Ankündigungen

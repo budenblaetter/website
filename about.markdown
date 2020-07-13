@@ -4,5 +4,6 @@
 
 layout: default
 title: Über uns
+permalink: /about/
 ---
-about
+<div class="header"><img src="../assets/about.png" style="width: 100%;"></div>

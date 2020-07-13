@@ -4,5 +4,6 @@
 
 layout: default
 title: Bestellen
+permalink: /bestellen/
 ---
 Bestellen

@@ -4,5 +4,6 @@
 
 layout: default
 title: Archiv
+permalink: /archive/
 ---
 Archiv
