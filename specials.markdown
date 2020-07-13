@@ -4,5 +4,6 @@
 
 layout: default
 title: Spezielles
+permalink: /specials/
 ---
 <div class="header"><img src="../assets/specials.png" style="width: 100%;"></div>
