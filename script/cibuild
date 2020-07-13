@@ -6,5 +6,5 @@ jekyll build ./_site
 
 # scp -o "StrictHostKeyChecking no" -i deploy_key _site/index.html ${username}@${hostname}:${wwwroot}/index.html
 
-scp -r -o "StrictHostKeyChecking no" -i deploy_key _site/ ${username}@${hostname}:${wwwroot}/
+scp -r -o "StrictHostKeyChecking no" -i deploy_key _site/. ${username}@${hostname}:${wwwroot}/
 
