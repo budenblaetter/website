@@ -6,4 +6,4 @@ layout: default
 title: Archiv
 permalink: /archive/
 ---
-Archiv
+<div class="header"><img src="../assets/archive.png" style="width: 100%;"></div>

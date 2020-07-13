@@ -6,4 +6,4 @@ layout: default
 title: Ankündigungen
 permalink: /announcements/
 ---
-Ankündigungen
+<div class="header"><img src="../assets/announcements.png" style="width: 100%;"></div>

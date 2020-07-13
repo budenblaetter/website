@@ -6,4 +6,4 @@ layout: default
 title: Bestellen
 permalink: /bestellen/
 ---
-Bestellen
+<div class="header"><img src="../assets/cart.png" style="width: 100%;"></div>
