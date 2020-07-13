@@ -1,0 +1,47 @@
+<!doctype html>
+<html>
+  <head>
+    <style>
+      .center {
+        margin: auto;
+        width: 50%;
+        max-width:800px;
+      }
+      .grid{
+        margin-top:10%;
+        display: grid;
+        grid-template-columns: repeat(3, 31%);
+        grid-template-rows: 50%;
+        grid-gap: 3%;
+      }
+
+      img {
+        width:100%;
+      }
+
+      @media only screen and (max-width: 720px){
+        .grid{
+          grid-template-columns: repeat(1,100%);
+          grid-template-rows: 16%;
+        } 
+      }
+    </style>
+    <meta charset="utf-8">
+    <title>{{ page.title }}</title>
+  </head>
+  <body>
+    <div class="center">
+      
+      <img src="assets/headline.png">
+
+      <div class="grid">
+        <div class="item"> <a href="announcements"><img src="assets/announcements.png"></a></div>
+        <div class="item"> <a href="send"><img src="assets/send.png"></a></div>
+        <div class="item"> <a href="cart"><img src="assets/cart.png"></a></div>
+        <div class="item"> <a href="archive"><img src="assets/archive.png"></a></div>
+        <div class="item"> <a href="specials"><img src="assets/specials.png"></a></div>
+        <div class="item"> <a href="about"><img src="assets/about.png"></a></div>
+      </div>
+  </div>
+  </body>
+</html>
