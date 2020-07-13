@@ -24,7 +24,7 @@ Nach Überweisung dann der postalische Versand.
 </p>
 <h2>/// English version ///</h2>
 
-We joyfully announce the publishing of budenblaetter 2019.<br>
+We joyfully announce the publishing of the new budenblaetter calendar.<br>
 <br>
 Short prose & poetry (mostly German), 19 text of (mostly) unknown/anonymous authors, two additional months and a very long august support our concept of time.<br>
 <br>
