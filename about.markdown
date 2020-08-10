@@ -17,7 +17,7 @@ Warum ein Kalender was soll ein Kalender!
 <br><br>
 Sendet uns Texte –
 <br><br>
-war unser anfänglicher Aufruf, aber er wurde erweitert, und das bleibt uns wichtig. Die budenblaetter bleiben ein Kalender für Menschen, die in Hinterzimmern schreiben, aber auch für diejenigen, die aus dem Busfenster beobachten, an oder an Schienen Tonspuren aufnehmen – ein Sammelort von bisher Unbeachtetem und Unbeobachtetem.
+war unser anfänglicher Aufruf, aber er wurde erweitert, und das bleibt uns wichtig. Die budenblaetter bleiben ein Kalender für Menschen, die in Hinterzimmern schreiben, aber auch für diejenigen, die aus dem Busfenster beobachten, oder an Schienen Tonspuren aufnehmen – ein Sammelort von bisher Unbeachtetem und Unbeobachtetem.
 <br><br>
 Für den Kalender aus Papier gleichen wir die Formatierung in die altbekannte Schreibmaschinenansicht an, für das Onlinekalendarium ist das Fenster weit offen: uns interessieren Komponenten, die Verdichtetes ausmachen. In Texten, aber auch in anderen Medien, seien es Fotos, Bildstrecken, oder Vorschläge, auf die wir bisher nicht gekommen sind. Gesammelt, kurz, verfremdet, beobachtet, konstruiert, sich wiederholend, rhytmisch, nihts davon lässt sich ausschließlich auf Text anwenden. Und gerade eben diese Berührungspunkte zwischen Bild und Ton und Musik wollen wir erforschen: Der Aufruf „Sendet uns…“ bleibt.
 </div>
