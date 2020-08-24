@@ -40,5 +40,7 @@ Copyright has to be with you – the author.
 <br><br>
 With sending your work you agree to have it published in our calendar and on our website. We say thank you.
 <br><br>
+Where to send it? an e-mail goes to budenblaetter@yahoo.de. Please include the text in the e-mail or attach it as a .doc or .docx document or PDF.
+<br><br>
 And don’t forget the submission deadline for budenblaetter 2021 is October 1st, 2020.
 </div>
