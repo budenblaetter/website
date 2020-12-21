@@ -26,8 +26,7 @@ Euer Blog, eure Internetseite, eure Lesebühne, eure Höhle, euer Stammcafé-Lit
 <br><br>
 Wohin damit? Mit einer E-Mail an budenblaetter@yahoo.de. Bei Einsendungen bitte direkt in den Mailtext oder als Anhang als .doc- beziehungsweise .docx-Dokument, bzw. PDF.
 <br><br>
-Und nicht vergessen: Einsendeschluss für die budenblaetter 2021 ist der 31.10.2020
- (Verlängert von ursprüglich 1.10.)
+Und nicht vergessen: Einsendeschluss für die budenblaetter 2022 ist der 01. Okt. 2021
 <br><br>
 Mit dem Einreichen der Texte gebt ihr euer Einverständnis zur Publikation, in unserem Kalender und auf unserer Website durch uns. Dafür danken wir.
 <br><br>
@@ -43,5 +42,5 @@ With sending your work you agree to have it published in our calendar and on our
 <br><br>
 Where to send it? an e-mail goes to budenblaetter@yahoo.de. Please include the text in the e-mail or attach it as a .doc or .docx document or PDF.
 <br><br>
-And don’t forget the submission deadline for budenblaetter 2021 is October 31st, 2020. (Earlier, the submission date was the 1st of October)
+And don’t forget the submission deadline for budenblaetter 2022 is October 1st, 2021.
 </div>

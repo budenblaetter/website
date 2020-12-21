@@ -9,6 +9,14 @@ permalink: /announcements/
 <div class="header"><img src="../assets/announcements.png" style="width: 100%;"></div>
 
 <div class="content">
+21. Dez. 2020
+<h1>Er ist da!</h1>
+<a href="../calendar2021/">budenblaetter.de/calendar2021/</a>
+<br><br>
+<br><br>
+///
+<br><br>
+<br><br>
 26. Nov. 2020
 <h1>/// Auswahl 2021 /// Releaseevent virtuell /// Kalender vorbestellen ///</h1>
 Wir waren letztes Wochenende am See und haben die Textauswahl für den Kalender 2021 gemacht. Vielen vielen Dank für all die Einsendungen, die Gedichte, Kollagen, Fotos, Zeichnungen und Lieder. Leider mussten wir dieses Jahr auf Festivaleinsendungen verzichten, aber wir haben trotzdem einiges bekommen, was ebenso spontanen Fundstückcharakter hat.<br>
