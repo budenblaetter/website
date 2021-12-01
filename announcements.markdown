@@ -9,6 +9,25 @@ permalink: /announcements/
 <div class="header"><img src="../assets/announcements.png" style="width: 100%;"></div>
 
 <div class="content">
+1. Dez. 2021
+<h1>Release Budenblaetter 2022</h1>
+°°°°HELLOSEN/// (English below) aufgepasst /// Planänderung. REL///EASE jetzt am 03. Dezember (Freitag) ab 19 Uhr. 
+Neu zu verkünden. Stattfinden wird das ganze im ORi - Forum künstlerische Bildmedien (Friedelstraße 8, 12047 Berlin). 
+https://ori-berlin.de/
+Wir freuen uns!
+///an einem "2G-Plus" Testkonzept (geimpft, genesen und gleichzeitig auch Schnelltest vom gleichen Tag) wird wohl nichts mehr vorbeiführen. 
+ES WIRD EIN FEST/// 
+°°°°HELLOSEN/// watch out /// Change of plans. REL///EASE now December 03 (Friday) from 7pm onwards. 
+We are happy to announce: The event will take place at ORi - Forum künstlerische Bildmedien (Friedelstraße 8, 12047 Berlin). https://ori-berlin.de/
+We are SO LOOKING FORWARD. 
+///The event will follow a "2G-Plus" test concept (vaccinated, recovered and at the same time everyone has to do quick test of the same day). 
+IT WILL BE A BLAST///
+
+<br><br>
+<br><br>
+///
+<br><br>
+<br><br
 21. Dez. 2020
 <h1>Er ist da!</h1>
 <a href="../calendar2021/">budenblaetter.de/calendar2021/</a>
