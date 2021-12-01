@@ -49,4 +49,4 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
-exclude: [vendor]
+exclude: [vendor, deploy_key, credentials]

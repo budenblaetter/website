@@ -11,15 +11,16 @@ permalink: /announcements/
 <div class="content">
 1. Dez. 2021
 <h1>Release Budenblaetter 2022</h1>
-°°°°HELLOSEN/// (English below) aufgepasst /// Planänderung. REL///EASE jetzt am 03. Dezember (Freitag) ab 19 Uhr. <br>
+<strong>REL///EASE</strong> jetzt am 03. Dezember (Freitag) ab 19 Uhr.<br><br>
 Neu zu verkünden. Stattfinden wird das ganze im ORi - Forum künstlerische Bildmedien (Friedelstraße 8, 12047 Berlin). <br>
 <a href="https://ori-berlin.de/">ori-berlin.de</a><br>
-Wir freuen uns!<br>
+Wir freuen uns!<br><br>
 ///an einem "2G-Plus" Testkonzept (geimpft, genesen und gleichzeitig auch Schnelltest vom gleichen Tag) wird wohl nichts mehr vorbeiführen. <br>
-ES WIRD EIN FEST/// <br>
-°°°°HELLOSEN/// watch out /// Change of plans. REL///EASE now December 03 (Friday) from 7pm onwards. <br>
-We are happy to announce: The event will take place at ORi - Forum künstlerische Bildmedien (Friedelstraße 8, 12047 Berlin).<a href="https://ori-berlin.de/">ori-berlin.de</a><br>
-We are SO LOOKING FORWARD.<br>
+ES WIRD EIN FEST/// <br><br>
+<strong>REL///EASE</strong> now December 03 (Friday) from 7pm onwards.<br><br>
+We are happy to announce: The event will take place at ORi - Forum künstlerische Bildmedien (Friedelstraße 8, 12047 Berlin).<br>
+<a href="https://ori-berlin.de/">ori-berlin.de</a><br>
+We are SO LOOKING FORWARD.<br><br>
 ///The event will follow a "2G-Plus" test concept (vaccinated, recovered and at the same time everyone has to do quick test of the same day). <br>
 IT WILL BE A BLAST///
 <br><br>
