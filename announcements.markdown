@@ -8,7 +8,40 @@ permalink: /announcements/
 ---
 <div class="header"><img src="../assets/announcements.png" style="width: 100%;"></div>
 
+
 <div class="content">
+///
+<h1>Budenblaetter 2025 Release</h1>
+<br>
+<h1>Lesung, Installation, Musik</h1>
+<br>
+<h1>6.12.2024, Brecht-Haus, ab 19 Uhr</h1>
+<br>
+<p>/// budenblaetter 2025 /// dieses Jahr ist fast rum /// das nächste Jahr kommt /// manche Monate werden süß, manche salzig /// manche Monate möchte man einfach verschlingen /// aufessen sich auf der Zunge zergehen lassen /// Kommt in den Keller des Brechthauses zum Release der essbaren budenblaetter /// 06.12.2024 ab 19.00 /// wir freuen uns riesig und sind schon gespannt ///</p>
+<br><br>
+<img src="../assets/esspapier1.jpg" style="width: 100%;">
+<br><br>
+<br><br>
+///
+<h1>Schreiben Lesen Abhängen</h1>
+<br>
+<h1>Schreib Maschinen Raum</h1>
+<br>
+<h1>13 Uhr bis 16 Uhr dann Musik</h1>
+<br>
+<h1>Wir holen die Festivals zu uns</h1>
+<br>
+<h1>Budenblaetter und THF Radio</h1>
+<br>
+<br>
+6.7.2024<br>
+Im Torhaus Tempelhofer Feld<br>
+Columbiadamm 10, 12101<br>
+<br><br>
+<img src="../assets/th.jpg" style="width: 100%;">
+<br><br>
+<br><br>
+///
 14. Dez. 2021
 <h1>Da ist er!</h1>
 <a href="../calendar2022/">budenblaetter.de/calendar2022/</a>

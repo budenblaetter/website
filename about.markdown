@@ -29,7 +29,7 @@ Für den Kalender aus Papier gleichen wir die Formatierung in die altbekannte Sc
 <h1>Impressum</h1>
 <h2>Angaben gemäß § 5 TMG</h2><br>
 David Lassner<br>
-Eisenacher Str. 69 Portal 1<br>
+Eisenacher Str. 45<br>
 10823 Berlin<br><br>
 
 E-Mail: millawelldev@gmail.com<br>
