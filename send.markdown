@@ -9,7 +9,7 @@ permalink: /einsenden/
 <div class="header"><img src="../assets/send.png" style="width: 100%;"></div>
 
 <div class="content">
-<h1>Die Chance auf Esspapier</h1>
+<h1>Bude—Blatt</h1>
 <img src="../assets/sendet-2.jpg" style="width: 80%; float:left; padding-right:2%; margin-left:-40%;">
 Wir wünschen uns: Gedanken. Große, kleine, leichte, blaue, schöne, dunkle, wirre, irre, eure.
 <br><br>
@@ -24,7 +24,7 @@ Euer Blog, eure Internetseite, eure Lesebühne, eure Höhle, euer Stammcafé-Lit
 <br><br>
 Wohin damit? Mit einer E-Mail an budenblaetter@yahoo.de. Bei Einsendungen bitte direkt in den Mailtext oder als Anhang als .doc- beziehungsweise .docx-Dokument, bzw. PDF.
 <br><br>
-Und nicht vergessen: Einsendeschluss für die budenblaetter 2025 ist der 01. Okt. 2024
+Und nicht vergessen: Einsendeschluss für die budenblaetter 2026 ist der 31. Okt. 2025
 <br><br>
 Mit dem Einreichen der Texte gebt ihr euer Einverständnis zur Publikation, in unserem Kalender und auf unserer Website durch uns. Dafür danken wir.
 <br><br>
